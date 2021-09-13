@@ -1,0 +1,13 @@
+C:\upload\dot-net\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.1\01-EstruturaDoPrograma.csprojAssemblyReference.cache
+C:\upload\dot-net\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.1\01-EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\upload\dot-net\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.1\01-EstruturaDoPrograma.AssemblyInfo.cs
+C:\upload\dot-net\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.1\01-EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\upload\dot-net\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.1\01-EstruturaDoPrograma.exe
+C:\upload\dot-net\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.1\01-EstruturaDoPrograma.deps.json
+C:\upload\dot-net\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.1\01-EstruturaDoPrograma.runtimeconfig.json
+C:\upload\dot-net\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.1\01-EstruturaDoPrograma.runtimeconfig.dev.json
+C:\upload\dot-net\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.1\01-EstruturaDoPrograma.dll
+C:\upload\dot-net\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.1\01-EstruturaDoPrograma.pdb
+C:\upload\dot-net\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.1\01-EstruturaDoPrograma.dll
+C:\upload\dot-net\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.1\01-EstruturaDoPrograma.pdb
+C:\upload\dot-net\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.1\01-EstruturaDoPrograma.genruntimeconfig.cache
