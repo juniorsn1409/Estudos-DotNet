@@ -1,0 +1,17 @@
+TIPOS DE VALOR
+
+numéricos: sbyte, short, int, long, byte, ushort, uint, ulong;
+
+caracteres unicode: char;
+
+pontos flutuantes: float, double, decimal;
+
+booleano: bool;
+
+enum, struct, e tipos nullable (Exemplo int?)
+
+TIPOS DE REFRÊNCIA
+
+variáveis de tipos de refência armazenam referências a seus dados.
+É possível que duas variáveis façam referência ao mesmo objeto e, 
+portanto, que operações em uma  variável a afetem o objeto referenciado pela outra variável;
